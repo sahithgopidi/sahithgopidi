@@ -20,13 +20,13 @@ Python · C · C++ · Java · SQL · R
 **Machine Learning & AI:**  
 Machine Learning · Predictive Analytics · Neural Networks · CNNs · SVM · Transfer Learning
 
-**Python & Data Science:**  
+**Data Science:**  
 NumPy · Pandas · SciPy · Matplotlib · Seaborn · Keras · TensorFlow
 
 **Databases:**  
 MySQL · SQL
 
-**Tools & Technologies:**  
+**Tools:**  
 Git · GitHub · VS Code · GitHub Copilot · AutoCAD
 
 **Core Concepts:**  
@@ -37,33 +37,18 @@ Data Structures & Algorithms · Object-Oriented Programming · Data Analysis · 
 ## Projects
 
 ### Breast Cancer Classification
-
-Built a machine learning model to classify breast cancer cases using medical datasets, focusing on accurate prediction and analysis of patient data.
-
 **Technologies:** Python, Machine Learning, Data Analysis
 
 ### Loan Approval Prediction
-
-Developed a machine learning solution to predict loan approval based on applicant information and relevant financial factors.
-
 **Technologies:** Python, Machine Learning, Data Analysis
 
 ### Club Management System
-
-Developed a C++ management system to organize customer requirements and help manage the supply needs of a club.
-
 **Technologies:** C++, Object-Oriented Programming, Data Structures
 
 ### InnovateLogic Systems Website
-
-Created a modern, responsive company website using HTML, CSS, and JavaScript, featuring company information, services, portfolio, careers, and contact sections.
-
 **Technologies:** HTML5, CSS3, JavaScript, Responsive Web Design
 
 ### Sums of Consecutive Squares Solver
-
-Implemented a Gleam-based parallel solution using the Actor Model, distributing computational workloads across multiple workers to efficiently search for valid solutions.
-
 **Technologies:** Gleam, Actor Model, Parallel Computing, Concurrent Workers
 
 ---
@@ -72,7 +57,7 @@ Implemented a Gleam-based parallel solution using the Actor Model, distributing 
 
 ### Naandi Foundation — Intern
 
-Completed an 8-week internship focused on asset management, problem solving, and working in a professional environment.
+8-week internship focused on asset management and problem solving.
 
 ---
 
